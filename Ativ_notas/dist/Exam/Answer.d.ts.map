@@ -1,0 +1,1 @@
+{"version":3,"file":"Answer.d.ts","sourceRoot":"","sources":["../../src/Exam/Answer.ts"],"names":[],"mappings":"AAAA,qBAAa,MAAM;IACf,OAAO,CAAC,OAAO,CAAY;gBACf,OAAO,EAAE,MAAM,EAAE;IAI7B,UAAU,IAAI,MAAM,EAAE;IAKtB,UAAU,CAAC,kBAAkB,EAAE,MAAM,EAAE,EAAE,KAAK,EAAE,MAAM,EAAE,GAAG,MAAM;CAYpE"}
